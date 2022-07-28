@@ -17,4 +17,5 @@
 
   <img alt="talel mejri " src="https://github-readme-stats.vercel.app/api?username=talel17&show_icons=true&locale=en&theme=dark">
    <img alt="talel mejri " src="https://github-readme-stats.vercel.app/api/top-langs?username=talel17&show_icons=true&locale=en&layout=compact&theme=dark">
+   <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=talel17&theme=dark">
  
