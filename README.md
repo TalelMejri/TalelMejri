@@ -8,6 +8,7 @@
 <a href="https://www.facebook.com/talel.mejri.1401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mejri talel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/talel_mejrii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talel.mejri" height="30" width="40" /></a>
 </p>
+<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=talel17&theme=gruvbox&row=1">
 <p align="left">
 </p>
 
