@@ -19,7 +19,7 @@
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=talel17&show_icons=true&locale=en&theme=dark" />
    <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=talel17&theme=dark">
    
-         <details>
+ <details>
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talel17&theme=tokyonight" />
 </details>
