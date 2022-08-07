@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Talel Mejri</h1>
- <img  align="center" src="https://readme-typing-svg.herokuapp.com?lines=Student;Full+Stack+Developer&center=false&width=500&height=50">
+
+ <img   src="https://readme-typing-svg.herokuapp.com?lines=Student+Full+Stack+Developer&center=false&width=500&height=50">
 </a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+
 - 🌱 I’m currently learning **Vue js and php**
 
 - 📫 How to reach me **talelmejri8@gmail.com**
