@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talel Mejri</h1>
 
- <img   src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Student&center=false&width=500&height=100">
-</a>
+ <img style="margin-left:100px;' src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Student&center=false&width=600&height=300">
+
 
 - 🌱 I’m currently learning **Vue js and php**
 
