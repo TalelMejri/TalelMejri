@@ -32,4 +32,8 @@ library project : <img alt="talel mejri" src="https://wakatime.com/badge/user/f9
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
 </details>
+
+     <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
+     <img alt="mohamed"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalelMejri&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+     <img alt="t" style='background-color:white' src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=TalelMejri&style=padding:2rem;background-color:lightgrey"/>
  
