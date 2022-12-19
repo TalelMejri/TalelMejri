@@ -35,6 +35,5 @@ library project : <img alt="talel mejri" src="https://wakatime.com/badge/user/f9
 
 <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
 <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=talelmejri&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
-
-<img alt="talel mejri" src="[https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1](https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact)">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
  
