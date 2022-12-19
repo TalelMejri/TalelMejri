@@ -37,5 +37,5 @@ library project : <img alt="talel mejri" src="https://wakatime.com/badge/user/f9
 <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=talelmejri&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
 
-<img src="https://skyline.github.com/TalelMejri/2022"/>
+
  
