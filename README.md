@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 
 
-- 🌱 I’m currently learning **Spring boot and Laravel**
+- 🌱 I’m currently learning **Spring Boot and Laravel**
 
 - 📫 How to reach me **talelmejri8@gmail.com**
 
