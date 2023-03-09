@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: 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
+          token: ${{ secrets.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 }} 
           user: TalelMejri
           
           plugin_skyline: yes  # плагин 3д активности скайлайн
