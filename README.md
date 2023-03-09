@@ -27,7 +27,7 @@ library project : <img alt="talel mejri" src="https://wakatime.com/badge/user/f9
 
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
    <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">
-   
+    <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
  <details>
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
