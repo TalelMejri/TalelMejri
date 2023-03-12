@@ -18,8 +18,8 @@
 <p align="left">
 </p>
 <ul>
-   <li>Library Management System project : <img alt="talel mejri" src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66/project/b7dd13fa-b3b4-4ac8-b5f9-374ade808cbb.svg"></li>
-   <li>Food Bundel Porject : <img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66/project/8ad56b7a-9f26-43ac-a063-f999954b30fa.svg"></li>
+   <li>Library Management System Project : <img alt="talel mejri" src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66/project/b7dd13fa-b3b4-4ac8-b5f9-374ade808cbb.svg"></li>
+   <li>Food Bundel Project : <img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66/project/8ad56b7a-9f26-43ac-a063-f999954b30fa.svg"></li>
  </ul>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -31,10 +31,12 @@
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
    <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">
     <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
- <details>
+ <!--<details>
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
-</details>
+</details>-->
+ <p>:zap: Most Used Languages</p>
+ <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
 
 <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
 <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=talelmejri&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
