@@ -42,6 +42,7 @@
 -->
 <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
 <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=talelmejri&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+<img src="https://api.star-history.com/svg?repos=TalelMejri/TalelMejri&type=Date" >
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
 
 
