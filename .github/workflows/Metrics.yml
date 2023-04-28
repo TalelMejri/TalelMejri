@@ -1,22 +1,29 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.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 }} 
-          user: TalelMejri
-          
-          plugin_skyline: yes  # плагин 3д активности скайлайн
-          plugin_skyline_year: 2022 # за какой год
-          plugin_skyline_frames: 120  # количество кадров
-          plugin_skyline_quality: 1  # качество 1 - лучшее
+    - uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          python3-pip
+        pip3 install codecov
+
+    - name: Run tests and generate code coverage report
+      run: |
+        # Run tests
+        # Generate code coverage report
+        codecov --token=YOUR_TOKEN
+
+      env:
+        CI: true
