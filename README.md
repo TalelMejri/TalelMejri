@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **talelmejri8@gmail.com**
 
+<img src="https://profile-counter.glitch.me/TalelMejri/count.svg">
+
 <h3 align="left">Connect with me:</h3>
  <a href="https://www.linkedin.com/in/talel-mejri-899a73232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mejri talel/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/talel.mejri.1401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mejri talel" height="30" width="40" /></a>
