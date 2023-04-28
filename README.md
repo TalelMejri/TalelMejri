@@ -45,6 +45,7 @@
 <img src="https://api.star-history.com/svg?repos=TalelMejri/TalelMejri&type=Date" >
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
+<a href="https://info.flagcounter.com/YqlL"><img src="https://s01.flagcounter.com/countxl/YqlL/bg_FDFFDB/txt_000000/border_A7B7CC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
  
