@@ -44,7 +44,8 @@
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
 -->
 <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
-<img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=talelmejri&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+
+<img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalelMejri"/>
 <img src="https://api.star-history.com/svg?repos=TalelMejri/TalelMejri&type=Date" >
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
@@ -52,7 +53,7 @@
  <img src="https://s01.flagcounter.com/countxl/YqlL/bg_FDFFDB/txt_000000/border_A7B7CC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
 </a>
 
-<codersrank-summary username="TalelMejri" layout="vertical"></codersrank-summary>
+
 
 
  
