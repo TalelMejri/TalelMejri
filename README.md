@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talel Mejri   </h1>
 
+<img src="/TalelMejri/TalelMejri/raw/main/profile.png" alt="" style="max-width: 100%;">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 
 - 🔭 I’m currently  working on ***MyEduConnect***
