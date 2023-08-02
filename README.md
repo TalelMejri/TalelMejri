@@ -59,7 +59,6 @@
  <img src="https://s01.flagcounter.com/countxl/YqlL/bg_FDFFDB/txt_000000/border_A7B7CC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
 </a>
 
-<script src="https://gist.github.com/TalelMejri/b27898640cfc36d248ead4a08fd13708.js"></script>
 
 
  
