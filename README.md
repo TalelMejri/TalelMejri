@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on ***MyEduConnect***
-- 🌱 I’m currently  learning **Spring Boot and .NET**
+- 🌱 I’m currently  learning **Spring Boot and Flutter**
 - 📫 How to reach me **talelmejri8@gmail.com**
 <p align="center">
    <img src="https://profile-counter.glitch.me/TalelMejri/count.svg">
