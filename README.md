@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 </p>
 
-- 🔭 I’m currently working on ***MyEduConnect***
+- 🔭 I’m currently working on **MyEduConnect**
 - 🌱 I’m currently  learning **Spring Boot and Flutter**
 - 📫 How to reach me **talelmejri8@gmail.com**
 <p align="center">
