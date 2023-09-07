@@ -49,3 +49,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ACTIONS_ALLOW_UNSECURE_NODE: true
+
+      - name: Set Output Variables
+        run: |
+          echo "GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+          echo "SVG_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
