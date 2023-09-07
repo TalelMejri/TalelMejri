@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Generate Snake
-      uses: Platane/snk@latest
+      uses: Platane/snk@v2 
       with:
         github_user_name: your-github-username
         gif_out_path: dist/github-contribution-grid-snake.gif
