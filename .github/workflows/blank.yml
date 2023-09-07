@@ -1,56 +1,32 @@
 name: Generate Snake
 
 on:
-  schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
-
   workflow_dispatch:
+  schedule:
+    # Schedule the workflow to run every day
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16.x]
 
     steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ matrix.node-version }}
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Generate Snake
+      uses: Platane/snk@latest
+      with:
+        github_user_name: your-github-username
+        gif_out_path: dist/github-contribution-grid-snake.gif
+        svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Generate the snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: mishmanners
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+    - name: Set Environment Variables
+      run: |
+        echo "SNAKE_GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
-      - name: Show the status of the build
-        run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-          node-version: 16
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ACTIONS_ALLOW_UNSECURE_NODE: true
-
-      - name: Set Output Variables
-        run: |
-          echo "GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
-          echo "SVG_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
+    - name: Upload Snake to GitHub Profile
+      uses: actions/upload-artifact@v2
+      with:
+        name: snake
+        path: dist/github-contribution-grid-snake.gif
