@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/talel_mejrii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talel.mejri" height="30" width="40" /></a>
  <a href="https://www.youtube.com/channel/UCH3d1NuLBfPiE0IOXoz3upA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="mejri talel/" height="30" width="40" /></a>
 </p>
-
+<!--
 <img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">
 <p align="left">
 </p>
@@ -31,14 +31,15 @@
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talelmejri&show_icons=true&locale=en&layout=compact&theme=dark" alt="talelmejri" /></p>-->
- <p>:zap: Most Used Languages</p>
+ -->
+
+  <!--
+   <p>:zap: Most Used Languages</p>
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
-     
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
-   <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">
+   <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
   
-   
+   <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talelmejri&show_icons=true&locale=en&layout=compact&theme=dark" alt="talelmejri" /></p>-->
  <!--<details>
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
