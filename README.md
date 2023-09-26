@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
+<!--<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
 
 ![Profile](profile.png)
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
+  <img sr-->c="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 </p>
 
 <!--- 🔭 I’m currently working on **MyEduConnect**-->
-- 🌱 I’m currently  learning **Spring Boot and Flutter**
+<!--- 🌱 I’m currently  learning **Spring Boot and Flutter**
 - 📫 How to reach me **talelmejri8@gmail.com**
 <p align="center">
    <img src="https://profile-counter.glitch.me/TalelMejri/count.svg">
