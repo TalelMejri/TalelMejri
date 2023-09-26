@@ -1,5 +1,5 @@
-<!--<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
-
+<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
+<!--
 ![Profile](profile.png)
 
  <p align="center">
