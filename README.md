@@ -4,7 +4,8 @@
 
  <p align="center">
   <img sr-->c="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
-</p>
+</p> 
+
 
 <!--- 🔭 I’m currently working on **MyEduConnect**-->
 <!--- 🌱 I’m currently  learning **Spring Boot and Flutter**
@@ -21,6 +22,8 @@
 </p>
 
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+
+-->
 <!--
 <img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">
 <p align="left">
