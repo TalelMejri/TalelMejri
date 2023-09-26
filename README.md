@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra&center=false&width=500&height=100">
+</p> 
 <!--
-![Profile](profile.png)
 
+![Profile](profile.png)
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 </p> 
