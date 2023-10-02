@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
+<!--<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=1000&height=100" align="center">
 </div> 
