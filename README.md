@@ -2,6 +2,7 @@
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=1000&height=100" align="center">
 </div> 
+-->
 <!--
 
 ![Profile](profile.png)
