@@ -1,12 +1,10 @@
-<!--<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
--->
+<h1 align="center">Hi 👋, I'm Talel Mejri    </h1>
 
 
 
 <!--![Profile](profile.png)-->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&row=1">
- 
+  <img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&row=1&margin-w=1">
 </p>
 
 <p align="center">
@@ -14,10 +12,10 @@
 </p>
 
 <!--<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">-->
-<!-- <div align="center">
+ <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=1000&height=100" align="center">
 </div> 
--->
+
  <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 </p> 
@@ -40,7 +38,6 @@
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
 -->
-<!--
 
 <p align="left">
 </p>
@@ -52,7 +49,7 @@
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
- -->
+
 
  <!--
    <p>:zap: Most Used Languages</p>
