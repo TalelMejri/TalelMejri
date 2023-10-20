@@ -2,8 +2,9 @@
 
 
 
-[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
+
 ![Profile](profile.png)
+[![Support Palestine](https://raw.githubusercontent.com/TalelMejri/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=1000&height=100" align="center">
 </div> 
