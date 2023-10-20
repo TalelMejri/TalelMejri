@@ -13,7 +13,7 @@
 
 <!--<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">-->
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=1000&height=100" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=100&height=100" align="center">
 </div> 
 
  <!--<p align="center">
@@ -38,7 +38,7 @@
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
 -->
-
+<!--
 <p align="left">
 </p>
 <a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
@@ -49,7 +49,7 @@
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
-
+-->
 
  <!--
    <p>:zap: Most Used Languages</p>
