@@ -5,6 +5,7 @@
 
 ![Profile](profile.png)
 [![Support Palestine](https://raw.githubusercontent.com/TalelMejri/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
+<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">
 <!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=1000&height=100" align="center">
 </div> 
@@ -32,7 +33,7 @@
 
 -->
 <!--
-<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">
+
 <p align="left">
 </p>
 <a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
@@ -45,13 +46,13 @@
 <img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
  -->
 
- 
+ <!--
    <p>:zap: Most Used Languages</p>
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
    <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talelmejri&show_icons=true&locale=en&layout=compact&theme=dark" alt="talelmejri" /></p>
+  <!--
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talelmejri&show_icons=true&locale=en&layout=compact&theme=dark" alt="talelmejri" /></p>-->
  <!--<details>
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
