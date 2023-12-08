@@ -2,7 +2,7 @@
 
 
 
-<!--![Profile](profile.png)-->
+ ![Profile](profile.png)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&row=1&margin-w=1">
 </p>
