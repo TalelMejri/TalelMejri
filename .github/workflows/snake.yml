@@ -14,6 +14,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Snake
+        id: snake
         uses: Platane/snk@master
         with:
           github_user_name: TalelMejri
@@ -29,6 +30,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
+
+      - name: Set Output Variables
+        run: |
+          echo "SNAKE_GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+          echo "SNAKE_SVG_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
