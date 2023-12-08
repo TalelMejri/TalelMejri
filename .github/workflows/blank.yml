@@ -17,7 +17,7 @@ jobs:
     - name: Generate Snake
       uses: Platane/snk@v2  # Replace with the specific version you want to use
       with:
-        github_user_name: your-github-username
+        github_user_name: TalelMejri
 
     - name: Set Environment Variables
       run: |
