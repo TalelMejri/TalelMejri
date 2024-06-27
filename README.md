@@ -26,7 +26,7 @@
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/TalelMejri/TalelMejri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="TalelMejri" />
 </p>
  <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
