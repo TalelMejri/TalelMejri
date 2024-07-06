@@ -29,9 +29,7 @@
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/TalelMejri/TalelMejri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="TalelMejri" />
 </p>
 
-### ✍️ Random Dev Quote
 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
  <!--<p align="center">
@@ -67,10 +65,8 @@
  
 ###   Most Used Languages 
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
-  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
-  <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talelmejri&show_icons=true&locale=en&layout=compact&theme=dark" alt="talelmejri" /></p>-->
+ <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
+ <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
  <!--<details>
   <summary>:zap: Most Used Languages</summary>
    <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
@@ -87,7 +83,8 @@
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
 
+### ✍️ Random Dev Quote
 
-
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  
