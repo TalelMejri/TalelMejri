@@ -35,7 +35,10 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center" style="width: 100%;">
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+
  <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
 </p> 
