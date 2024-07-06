@@ -14,6 +14,8 @@
 <!--<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">-->
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=100&height=100" align="center">
+  <br>
+  <a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
 </div> 
 <p align="left">
 </p>
@@ -29,16 +31,6 @@
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/TalelMejri/TalelMejri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="TalelMejri" />
 </p>
 
-
-
-
- <!--<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
-</p> 
--->
-
-<!--- 🔭 I’m currently working on **MyEduConnect**-->
-<!--- 🌱 I’m currently  learning **Spring Boot and Flutter**
 - 📫 How to reach me **talelmejri8@gmail.com**
 <p align="center">
    <img src="https://profile-counter.glitch.me/TalelMejri/count.svg">
@@ -50,30 +42,12 @@
 <a href="https://www.instagram.com/talel_mejrii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talel.mejri" height="30" width="40" /></a>
  <a href="https://www.youtube.com/channel/UCH3d1NuLBfPiE0IOXoz3upA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="mejri talel/" height="30" width="40" /></a>
 </p>
-
-<img src="https://github.com/TalelMejri/TalelMejri/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
-
--->
-<!--
-<p align="left">
-</p>
-<a href="https://wakatime.com/@f93d286b-767c-4172-a5b0-9c695b8a1e66"><img src="https://wakatime.com/badge/user/f93d286b-767c-4172-a5b0-9c695b8a1e66.svg" alt="Total time coded since Aug 5 2022" /></a>
-
-
--->
-
  
 ###   Most Used Languages 
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
- <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
- <!--<details>
-  <summary>:zap: Most Used Languages</summary>
-   <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
-</details>
- <p>:zap: Most Used Languages</p>
- <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
--->
+ <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">
+
 <img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
 
 <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalelMejri"/>
