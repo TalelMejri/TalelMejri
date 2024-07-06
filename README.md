@@ -1,17 +1,15 @@
 <h1 align="center">Hi  👋, I'm Talel Mejri </h1>
 
-
-
  ![Profile](profile.png)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&row=1&margin-w=1">
 </p>
-
+- 📫 How to reach me **talelmejri8@gmail.com**
 <p align="center">
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
 
-<!--<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">-->
+<img alt="talel mejri" src="https://github-profile-trophy.vercel.app/?username=TalelMejri&theme=gruvbox&row=1">
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Bizo;Bahra;Talel&center=false&width=100&height=100" align="center">
   <br>
@@ -31,18 +29,7 @@
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/TalelMejri/TalelMejri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="TalelMejri" />
 </p>
 
-- 📫 How to reach me **talelmejri8@gmail.com**
-<p align="center">
-   <img src="https://profile-counter.glitch.me/TalelMejri/count.svg">
-</p>
-<p  align="center">
-<h3 align="left">Connect with me:</h3>
- <a href="https://www.linkedin.com/in/talel-mejri-899a73232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mejri talel/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/talel.mejri.1401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mejri talel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/talel_mejrii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talel.mejri" height="30" width="40" /></a>
- <a href="https://www.youtube.com/channel/UCH3d1NuLBfPiE0IOXoz3upA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="mejri talel/" height="30" width="40" /></a>
-</p>
- 
+
 ###   Most Used Languages 
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
