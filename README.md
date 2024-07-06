@@ -64,12 +64,12 @@
 
 -->
 
- <!--
-   <p>:zap: Most Used Languages</p>
+ 
+###   Most Used Languages 
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
-   <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
-   <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
-  <!--
+  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api?username=TalelMejri&show_icons=true&locale=en&theme=dark" />
+  <img alt="talel mejri" src="https://github-readme-streak-stats.herokuapp.com/?user=TalelMejri&theme=dark">-->
+  
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talelmejri&show_icons=true&locale=en&layout=compact&theme=dark" alt="talelmejri" /></p>-->
  <!--<details>
   <summary>:zap: Most Used Languages</summary>
@@ -86,9 +86,7 @@
 <img src="https://api.star-history.com/svg?repos=TalelMejri/TalelMejri&type=Date" >
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
-<a href="https://info.flagcounter.com/YqlL">
- <img src="https://s01.flagcounter.com/countxl/YqlL/bg_FDFFDB/txt_000000/border_A7B7CC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-</a>
+
 
 
 
