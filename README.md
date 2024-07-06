@@ -23,11 +23,6 @@
 
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--![snake gif](https://github.com/TalelMejri/TalelMejri/blob/output/github-contribution-grid-snake.gif)-->
 <h1 align="left"><u>Github stats</u></h1>
 
 <p align="center" style="width: 100%;">
@@ -35,9 +30,9 @@
 </p>
 
 ### ✍️ Random Dev Quote
-<p align="center" style="width: 100%;">
+
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
+
 
  <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Student&center=false&width=500&height=100">
@@ -83,7 +78,7 @@
  <p>:zap: Most Used Languages</p>
  <img  align="left"  alt="talel mejri" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalelMejri&theme=tokyonight" />
 -->
-<!--<img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
+<img alt="talel" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=TalelMejri"/>
 
 <img alt="talel"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalelMejri"/>
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=TalelMejri" />
@@ -93,7 +88,7 @@
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TalelMejri&theme=github-compact"/>
 <a href="https://info.flagcounter.com/YqlL">
  <img src="https://s01.flagcounter.com/countxl/YqlL/bg_FDFFDB/txt_000000/border_A7B7CC/columns_8/maxflags_16/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
-</a>-->
+</a>
 
 
 
